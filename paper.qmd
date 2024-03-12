@@ -3,9 +3,8 @@ title: "The Limits of Data Interpretation"
 author: "Hari Lee Robledo"
 format: pdf
 date: "today"
-thanks: "Code and data from this analysis are available at: https://github.com/hari-lr/Preference-and-Perception-of-Decision-Making."
+thanks: "Code and data from this analysis are available at: https://github.com/hari-lr/The-Limits-of-Data-Interpretation. Thank you to ______ for your valuable insights and constructive feedback during the review process."
 bibliography: references.bib
-
 ---
 
 ## Introduction
@@ -15,13 +14,10 @@ bibliography: references.bib
 
 ## Conclusion
 [@JordanPaper]
+[@CatherineBook]
+[@AuPaper]
 
 \newpage
 
 ## References
 
-
-
-```{r}
-1 + 1
-```
