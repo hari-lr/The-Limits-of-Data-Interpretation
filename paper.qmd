@@ -1,0 +1,27 @@
+---
+title: "The Limits of Data Interpretation"
+author: "Hari Lee Robledo"
+format: pdf
+date: "today"
+thanks: "Code and data from this analysis are available at: https://github.com/hari-lr/Preference-and-Perception-of-Decision-Making."
+bibliography: references.bib
+
+---
+
+## Introduction
+
+
+## Body
+
+## Conclusion
+[@JordanPaper]
+
+\newpage
+
+## References
+
+
+
+```{r}
+1 + 1
+```
